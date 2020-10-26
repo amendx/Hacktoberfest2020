@@ -18,7 +18,7 @@ However, if you are interested in having contributions to this repo count toward
 
 If you have any questions about this or participating in Hacktoberfest, please contact our team via email hacktoberfest@digitalocean.com or join our community Discord server.
 
-Happy Hacking,
+``Happy Hacking``,
 The Hacktoberfest Team
 
 Hacktoberfest is presented by DigitalOcean, Intel and DEV.
